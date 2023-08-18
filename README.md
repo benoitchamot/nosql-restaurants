@@ -20,11 +20,12 @@ There are 41 establishments with a Hygiene Score of 20
 There are 33 establishments in London with a Rating Value >= 4
 
 ### 3. What are the top 5 establishments with a `RatingValue` rating value of '5', sorted by lowest hygiene score, nearest to the new restaurant added, "Penang Flavours"?
-1. TIWA N TIWA African Restaurant Ltd
-2. Fineway Cash & Carry
-3. Lucky Food & Wine
-4. Premier Express
-5. Everest Stores Ltd
+The businesses are:
+1. Iceland
+2. Howe and Co Fish and Chips - Van 17
+3. Volunteer
+4. Plumstead Manor Nursery
+5. Atlantic Fish Bar
 
 ### 4. How many establishments in each Local Authority area have a hygiene score of 0?
 The Local Authorities with the most establishments are:
