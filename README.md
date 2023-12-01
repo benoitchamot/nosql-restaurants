@@ -1,6 +1,4 @@
-# nosql-challenge
-Repository for Monash University Bootcamp Module 12
-
+# Restaurants database (MongoDB)
 ## File structure
 - `NoSQL_setup_starter.ipynb`: Jupyter notebook used to setup the database and add new restaurant
 - `NoSQL_analysis_starter.ipynb`: Jupyter notebook used for the analysis
