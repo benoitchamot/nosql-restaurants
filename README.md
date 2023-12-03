@@ -1,4 +1,6 @@
 # Restaurants database (MongoDB)
+Demonstration of functions used with MongoDB for CRUD (create, read, update and delete)
+
 ## File structure
 - `NoSQL_setup.ipynb`: Jupyter notebook used to setup the database and add new restaurant
 - `NoSQL_analysis.ipynb`: Jupyter notebook used for the analysis
