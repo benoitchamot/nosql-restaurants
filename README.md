@@ -1,7 +1,7 @@
 # Restaurants database (MongoDB)
 ## File structure
-- `NoSQL_setup_starter.ipynb`: Jupyter notebook used to setup the database and add new restaurant
-- `NoSQL_analysis_starter.ipynb`: Jupyter notebook used for the analysis
+- `NoSQL_setup.ipynb`: Jupyter notebook used to setup the database and add new restaurant
+- `NoSQL_analysis.ipynb`: Jupyter notebook used for the analysis
 - `Resources`: Directory containing the JSON file used to set up the database
 
 ## Importing database from the JSON file
